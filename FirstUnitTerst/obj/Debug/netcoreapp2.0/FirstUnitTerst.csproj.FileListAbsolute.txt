@@ -1,0 +1,11 @@
+C:\Users\Criatian\Cursos\MsTest\FirstUnitTerst\FirstUnitTerst\bin\Debug\netcoreapp2.0\FirstUnitTerst.deps.json
+C:\Users\Criatian\Cursos\MsTest\FirstUnitTerst\FirstUnitTerst\bin\Debug\netcoreapp2.0\FirstUnitTerst.runtimeconfig.json
+C:\Users\Criatian\Cursos\MsTest\FirstUnitTerst\FirstUnitTerst\bin\Debug\netcoreapp2.0\FirstUnitTerst.runtimeconfig.dev.json
+C:\Users\Criatian\Cursos\MsTest\FirstUnitTerst\FirstUnitTerst\bin\Debug\netcoreapp2.0\FirstUnitTerst.dll
+C:\Users\Criatian\Cursos\MsTest\FirstUnitTerst\FirstUnitTerst\bin\Debug\netcoreapp2.0\FirstUnitTerst.pdb
+C:\Users\Criatian\Cursos\MsTest\FirstUnitTerst\FirstUnitTerst\obj\Debug\netcoreapp2.0\FirstUnitTerst.csprojResolveAssemblyReference.cache
+C:\Users\Criatian\Cursos\MsTest\FirstUnitTerst\FirstUnitTerst\obj\Debug\netcoreapp2.0\FirstUnitTerst.csproj.CoreCompileInputs.cache
+C:\Users\Criatian\Cursos\MsTest\FirstUnitTerst\FirstUnitTerst\obj\Debug\netcoreapp2.0\FirstUnitTerst.AssemblyInfoInputs.cache
+C:\Users\Criatian\Cursos\MsTest\FirstUnitTerst\FirstUnitTerst\obj\Debug\netcoreapp2.0\FirstUnitTerst.AssemblyInfo.cs
+C:\Users\Criatian\Cursos\MsTest\FirstUnitTerst\FirstUnitTerst\obj\Debug\netcoreapp2.0\FirstUnitTerst.dll
+C:\Users\Criatian\Cursos\MsTest\FirstUnitTerst\FirstUnitTerst\obj\Debug\netcoreapp2.0\FirstUnitTerst.pdb

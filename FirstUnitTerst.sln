@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUnitTerst", "FirstUnitTerst\FirstUnitTerst.csproj", "{07243C4F-4327-493E-84FC-F2A1608C038C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{DAA5ECFA-863C-465B-B129-53D32D5478FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07243C4F-4327-493E-84FC-F2A1608C038C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07243C4F-4327-493E-84FC-F2A1608C038C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07243C4F-4327-493E-84FC-F2A1608C038C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07243C4F-4327-493E-84FC-F2A1608C038C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA5ECFA-863C-465B-B129-53D32D5478FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA5ECFA-863C-465B-B129-53D32D5478FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA5ECFA-863C-465B-B129-53D32D5478FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA5ECFA-863C-465B-B129-53D32D5478FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E590BB30-31FC-4924-910F-0B75DAF75D79}
+	EndGlobalSection
+EndGlobal
